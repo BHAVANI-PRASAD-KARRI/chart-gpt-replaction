@@ -132,8 +132,8 @@ jupyter notebook
 
 **Karri Bhavani Prasad**
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: your-linkedin-link
+* 📧 Email: bhavaniprasadkarri123@gmail.com
+* 💼 LinkedIn: www.linkedin.com/in/bhavaniprasadkarri
 
 ---
 
@@ -143,4 +143,3 @@ This project is open-source and available under the MIT License.
 
 ---
 
-If you want, I can **customize this README exactly for your project** (like placement prediction, chatbot, movie recommendation, etc.)—just tell me your project topic 👍
